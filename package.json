@@ -1,0 +1,19 @@
+{
+    "name": "xampp-node",
+    "version": "1.0.0",
+    "private": true,
+    "description": "xapmp-node",
+    "main": "index.js",
+    "dependencies": {
+        "express": "~4.0.0-rc4",
+        "body-parser": "~1.0.1",
+        "ejs": "~0.8.8",
+        "compression": "~1.0.1",
+        "express-session": "^1.0.3"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "start": "node index.js"
+    },
+    "license": "ISC"
+}
